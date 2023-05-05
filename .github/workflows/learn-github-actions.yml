@@ -9,6 +9,6 @@ jobs:
 #       - uses: actions/setup-node@v3
 #         with:
 #           node-version: '14'
-      - uses: github-actions@v1
+      - uses: kev-711/github-actions@v1
         with:
           who-to-greet: 'Vivek'
